@@ -21,5 +21,5 @@ Python · JavaScript / TypeScript · HTML · Tailwind CSS · Node.js · n8n · P
 
 ### Me contacter
 
-- Site : [portfolio-kohl-eight-63.vercel.app](https://portfolio-kohl-eight-63.vercel.app)
+- Site : [www.grosamael.fr](https://www.grosamael.fr/)
 <!-- à personnaliser : ajoute ici tes liens (Malt, LinkedIn, e-mail pro…) si tu veux les afficher -->
