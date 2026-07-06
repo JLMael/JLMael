@@ -12,7 +12,7 @@ performants et j'automatise tout ce qui peut l'être — du web au serveur.
 ### Quelques projets
 
 - **[Malt-MCP](https://github.com/JLMael/Malt-MCP)** — serveur MCP pour Malt.fr : lire son tableau de bord freelance et éditer son profil depuis n'importe quel client MCP (Python).
-- **[Portfolio](https://github.com/JLMael/Portfolio)** — mon site vitrine freelance ([en ligne](https://portfolio-kohl-eight-63.vercel.app)), création de sites & marketing digital à Marseille.
+- **[Portfolio](https://github.com/JLMael/Portfolio)** — mon site vitrine freelance ([grosamael.fr](https://www.grosamael.fr/)), création de sites & marketing digital à Marseille.
 - **[DofusNoobTraveller](https://github.com/JLMael/DofusNoobTraveller)** — petit utilitaire Python qui automatise les déplacements `/travel` sur Dofus.
 
 ### Stack & outils
@@ -21,5 +21,7 @@ Python · JavaScript / TypeScript · HTML · Tailwind CSS · Node.js · n8n · P
 
 ### Me contacter
 
-- Site : [www.grosamael.fr](https://www.grosamael.fr/)
-<!-- à personnaliser : ajoute ici tes liens (Malt, LinkedIn, e-mail pro…) si tu veux les afficher -->
+- 🌐 Site : [grosamael.fr](https://www.grosamael.fr/)
+- 💼 Malt : [malt.fr/profile/maelgrosa](https://www.malt.fr/profile/maelgrosa)
+- 🔗 LinkedIn : [Maël Grosa](https://www.linkedin.com/in/ma%C3%ABl-grosa-894698248/)
+- ✉️ E-mail : [contact@grosamael.fr](mailto:contact@grosamael.fr)
